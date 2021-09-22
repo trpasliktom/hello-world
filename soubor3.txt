@@ -7,4 +7,3 @@ linuxový řádek
 abcd
 jedna
 dve
-tri
