@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Hello world
+
+using System;
 
 namespace hello_world
 {
