@@ -4,3 +4,4 @@ nejaky pokus
 dalsi
 jiny
 linuxový řádek
+abcd
