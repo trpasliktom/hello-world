@@ -12,4 +12,5 @@ Martinez Ferdinandez jde
 dalsi konflikt
 branch test
 zmena na branchi
+dalsi
 
